@@ -1,0 +1,7 @@
+R10 Konu UP
+
+
+- Sistem konuları otomatik algılar.
+- Konuların sürelerini otomatik takip eder ve süresi bittiğinde otomatik olarak konu up yapar.
+- Konuları up yaparken konular arasında bekleme süresi var ise bunu ayarlayabilirsiniz.
+
