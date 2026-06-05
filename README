@@ -1,7 +1,28 @@
-R10 Konu UP
+<p align="center">
+  <img src="assets/logo.png" width="128">
+</p>
 
+<h1 align="center">R10 Konu UP</h1>
 
-- Sistem konuları otomatik algılar.
-- Konuların sürelerini otomatik takip eder ve süresi bittiğinde otomatik olarak konu up yapar.
-- Konuları up yaparken konular arasında bekleme süresi var ise bunu ayarlayabilirsiniz.
+<p align="center">
+  R10 konularınızı otomatik olarak takip eden ve süre dolduğunda otomatik up yapan Chrome eklentisi.
+</p>
 
+---
+
+## 🚀 Özellikler
+
+- Konuları otomatik algılar
+- Süreleri otomatik takip eder
+- Süresi dolan konuları otomatik up yapar
+- Bekleme süresi ayarlanabilir
+- Arka planda çalışır
+- Kolay kullanım
+
+## 📸 Ekran Görüntüsü
+
+(konu_up.png)
+
+## Satın alma
+
+- Eklenti ücreti tek seferliktir. Mail üzerinden ulaşım sağlayabilirsiniz.
