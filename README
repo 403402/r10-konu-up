@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/403402/r10-konu-up/blob/main/konu_up.png"
-</p>
-
 <h1 align="center">R10 Konu UP</h1>
 
 <p align="center">
@@ -21,8 +17,11 @@
 
 ## 📸 Ekran Görüntüsü
 
-(konu_up.png)
+<picture>
+  <source srcset="https://raw.githubusercontent.com/403402/r10-konu-up/refs/heads/main/konu_up.png">
+  <img alt="Konu UP Banner">
+</picture>
 
 ## Satın alma
 
-- Eklenti ücreti tek seferliktir. Mail üzerinden ulaşım sağlayabilirsiniz.
+- Eklenti ücreti tek seferliktir ve fivemkey@yandex.com üzerinden iletişime geçebilirsiniz.
